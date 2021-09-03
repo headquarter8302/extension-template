@@ -1,2 +1,2 @@
 # extension-template
-Template repo
+Template repo, nothing more
